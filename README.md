@@ -79,9 +79,12 @@ This app is structured using the **MVVM architecture** to ensure clean code prac
 
 ## 📸 Screenshots  
 
-| Scanner Screen               | History Content              | Creator Content              | Creator Screen              |
-|------------------------------|------------------------------|------------------------------|-----------------------------|
-| ![Scanner](assets/images/scanner.png)   | ![History Content](assets/images/history_content.png)  | ![Creator Content](assets/images/creator_content.png) | ![Creator](assets/images/creator.png) |
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github.com/ynemreuslu/QrCode/blob/fb326125b472fe5e9b0422c92c3e7e6690adacc9/app/src/main/assets/images/scanner.png" alt="Scanner Screen" width="200"/>
+    <img src="https://github.com/ynemreuslu/QrCode/blob/fb326125b472fe5e9b0422c92c3e7e6690adacc9/app/src/main/assets/images/history_content.png" alt="History Content Screen" width="200"/>
+    <img src="https://github.com/ynemreuslu/QrCode/blob/fb326125b472fe5e9b0422c92c3e7e6690adacc9/app/src/main/assets/images/creator_content.png" alt="Creator Content Screen" width="200"/>
+    <img src="https://github.com/ynemreuslu/QrCode/blob/fb326125b472fe5e9b0422c92c3e7e6690adacc9/app/src/main/assets/images/creator.png" alt="Creator Screen" width="200"/>
+</div>
 
 ---
 
