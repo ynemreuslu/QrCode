@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.App.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/animated_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.InstantQr</item>
+    </style>
+</resources>

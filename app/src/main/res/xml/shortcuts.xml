@@ -1,0 +1,19 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/ic_scanner"
+        android:shortcutDisabledMessage="@string/shortcut_disabled_scanner"
+        android:shortcutId="scanner_shortcut"
+        android:shortcutLongLabel="@string/scan_qr_code_long"
+        android:shortcutShortLabel="@string/scan_qr_code_long">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetClass="app.ynemreuslu.instantqr.MainActivity"
+            android:targetPackage="app.ynemreuslu.instantqr">
+            <extra
+                android:name="shortcut_type"
+                android:value="scanner" />
+        </intent>
+    </shortcut>
+</shortcuts>
