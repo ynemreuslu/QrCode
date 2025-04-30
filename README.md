@@ -1,6 +1,6 @@
 # 📱 QR Code Generator & Scanner  
 
-An advanced QR code application built with **Jetpack Compose** and following the **MVVM architecture**. Generate, scan, and store QR codes with a clean and modern user experience.  
+An advanced QR code application built with **Jetpack Compose** and following the **MVVM architecture**. Generate, scan, and store QR codes with a clean and modern user experience.
 
 ---
 
@@ -95,8 +95,11 @@ Follow these steps to set up and run the project on your local machine:
  **Clone the repository**:  
    git clone https://github.com/ynemreuslu/QrCode.git  
 ---
-## 💬 Contact  
-Have questions or feedback? Feel free to open an issue or contact me:  
+## 📬 Let's Connect!  
+🤝 *Open for collaboration, questions, or just a friendly hello!*  
 
-📧 Email: [ynemreuslu@gmail.com](mailto:ynemreuslu@gmail.com)  
-🌐 GitHub: [https://github.com/ynemreuslu](https://github.com/ynemreuslu)  
+---
+
+### 🔗 **Contact Me**  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ynemreuslu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ynemreuslu)
